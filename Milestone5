@@ -1,0 +1,15 @@
+Mean for Fare: 78.68247
+Median for Fare: 57
+Variance for Fare: 5828.993
+Standard deviation for Fare: 76.34784
+
+The mean is greater than the median which most likely means the data is skewed right.
+The standard deviation shows that the data is not close to the mean because it is 76.34784
+
+Mean for Age: 35.67443
+Median for Age: 36
+Variance for Age: 244.7305
+Standard deviation for Age: 15.64387
+
+The mean and median are very close together which most likely means there is a normal distribution.
+The standard deviation shows that the data is close to the mean because it is 15.64387
