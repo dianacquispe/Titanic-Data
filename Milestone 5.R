@@ -1,0 +1,16 @@
+mean(train$Age)
+35.67443
+median(train$Age)
+36
+var(train$Age)
+244.7305
+sd(train$Age)
+15.64387
+mean(train$Fare)
+78.68247
+median(train$Fare)
+57
+var(train$Fare)
+5828.993
+sd(train$Fare)
+76.34784
