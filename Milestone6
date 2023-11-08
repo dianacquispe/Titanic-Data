@@ -4,3 +4,6 @@ plot(train$Age, train$Fare,
      xlab = "Age of Passenger")
 cor(train$Age, train$Fare)
 [1] -0.09242386
+
+The two variables do not seem related because there isn't a clear linear association between both. Most of the fare amounts are under 100 but they're dispersed throughout
+all the ages from 0 to 80. This makes sense because of correlation is -0.09242386 showing there isn't a strong linear association between age and fare.
