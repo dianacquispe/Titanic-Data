@@ -1,0 +1,6 @@
+plot(train$Age, train$Fare, 
+     main="Correlation between Age of Passengers and Fares", 
+     ylab= "Fare Amount", 
+     xlab = "Age of Passenger")
+cor(train$Age, train$Fare)
+[1] -0.09242386
